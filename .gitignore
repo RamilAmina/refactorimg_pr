@@ -1,0 +1,5 @@
+﻿__pycache__/
+target/
+*.class
+.pytest_cache/
+.vscode/
